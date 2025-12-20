@@ -1,4 +1,4 @@
-## [Hi, I'm Mustapha 👋](https://readme-typing-svg.demolab.com/demo/?color=000000&lines=Hi%2C+I'm+Mustapha)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+I'm+Mustapha)](https://git.io/typing-svg)
 
 Frontend Developer |
 
