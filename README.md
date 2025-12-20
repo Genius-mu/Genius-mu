@@ -16,5 +16,5 @@ Frontend Developer | Learning Backend (FastAPI)
 - 🔹 Crypto Rise – a modern, web-based crypto trading platform built with React and Tailwind CSS.
 
 ### 📫 Connect with me
-- my-portfolio(http://mustaphadev.vercel.app/)
-- x-account(https://x.com/mustaphAdegbite)
+- [my-portfolio](http://mustaphadev.vercel.app/)
+- [x-account](https://x.com/mustaphAdegbite)
