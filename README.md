@@ -4,7 +4,7 @@ Frontend Developer |
 
 🚀 I build responsive web apps and websites  
 💡 I enjoy solving real-world problems with code  
-🌱 Currently learning FastAPI & backend development
+🌱 Evolving with tech trends and knowledge
 
 ### 🛠 Tech Stack
 - HTML, CSS, JavaScript
