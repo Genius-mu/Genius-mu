@@ -1,6 +1,6 @@
 ## Hi, I'm Mustapha 👋
 
-Frontend Developer | Learning Backend (FastAPI)
+Frontend Developer |
 
 🚀 I build responsive web apps and websites  
 💡 I enjoy solving real-world problems with code  
@@ -9,7 +9,7 @@ Frontend Developer | Learning Backend (FastAPI)
 ### 🛠 Tech Stack
 - HTML, CSS, JavaScript
 - React, Axios
-- FastAPI (learning)
+- Next.js, TypeScript
 
 ### 📌 Projects
 - 🔹 Habit xp – A simple habit tracking app that gamifies your daily, weekly, and monthly habits by awarding XP and tracking your progress with interactive charts
