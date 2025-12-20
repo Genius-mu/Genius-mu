@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Mustapha 👋
 
-<!--
-**Genius-mu/Genius-mu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Learning Backend (FastAPI)
 
-Here are some ideas to get you started:
+🚀 I build responsive web apps and websites  
+💡 I enjoy solving real-world problems with code  
+🌱 Currently learning FastAPI & backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React, Axios
+- FastAPI (learning)
+
+### 📌 Projects
+- 🔹 Habit xp – A simple habit tracking app that gamifies your daily, weekly, and monthly habits by awarding XP and tracking your progress with interactive charts
+- 🔹 Crypto Rise – a modern, web-based crypto trading platform built with React and Tailwind CSS.
+
+### 📫 Connect with me
+- Portfolio: [your-link](http://mustaphadev.vercel.app/)
+- Twitter: [your-link](https://x.com/mustaphAdegbite)
