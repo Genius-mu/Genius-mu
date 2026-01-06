@@ -1,20 +1,19 @@
 ## Hi, I'm Mustapha 👋
 
-Frontend Developer |
+Frontend developer focused on turning ideas into working products, not just polished UIs.
 
-🚀 I build responsive web apps and websites  
-💡 I enjoy solving real-world problems with code  
-🌱 Evolving with tech trends and knowledge
+I’ve built projects ranging from a habit-tracking app that gamifies consistency with XP and charts, to a crypto trading interface designed for clarity, speed, and real user flow. I care about how things behave, not just how they look — structure, state, data flow, and user experience matter to me.
 
 ### 🛠 Tech Stack
 - HTML, CSS, JavaScript
-- React, Axios
+- React (hooks, state, data handling)
 - Next.js, TypeScript
+- Axios, modern frontend workflows
 
 ### 📌 Projects
-- 🔹 Habit xp – A simple habit tracking app that gamifies your daily, weekly, and monthly habits by awarding XP and tracking your progress with interactive charts
-- 🔹 Crypto Rise – a modern, web-based crypto trading platform built with React and Tailwind CSS.
+- 🔹 Habit xp – A habit-tracking app that rewards daily, weekly, and monthly consistency with XP and visual progress charts
+- 🔹 Crypto Rise – A modern crypto trading UI built with React and Tailwind CSS, focused on clean layouts and user flow
 
-### 📫 Connect with me
+### Find me online
 - [my-portfolio](http://mustaphadev.vercel.app/)
 - [x-account](https://x.com/mustaphAdegbite)
