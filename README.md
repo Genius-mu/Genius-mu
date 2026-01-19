@@ -12,8 +12,8 @@ I’ve built projects ranging from a habit-tracking app that gamifies consistenc
 
 ### Featured Projects
 **Habit xp – habit-tracking app** 
-*A habit-tracking app that rewards daily, weekly, and monthly consistency with XP and visual progress charts*
-#[View Project →](https://habitxpp.netlify.app/)
+## *A habit-tracking app that rewards daily, weekly, and monthly consistency with XP and visual progress charts*
+## [View Project →](https://habitxpp.netlify.app/)
 
 **Alubarika - Crypto & Fx Platform**
 *I built this website to give an FX trader a central place where clients can learn about his services and contact him directly, without moving from platform to platform.*
