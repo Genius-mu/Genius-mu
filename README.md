@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mustapha - A Nigerian Frontend developer and tech creator building and turning ideas into working production-grade applications across web, mobile not just polished UIs.<br><br>I’ve built projects ranging from a habit-tracking app that gamifies consistency with XP and charts, to a crypto trading interface designed for clarity, speed, and real user flow. I care deeply about how things behave, not just how they look—structure, state management, data flow, and user experience matter to me.<br><br>🛠 Tech Stack<br>HTML, CSS, JavaScript<br>React (hooks, state, data handling)<br>Next.js, TypeScript<br>Axios, modern frontend workflows
+I'm Mustapha - A Nigerian Frontend developer and tech creator building and turning ideas into working production-grade applications across web, mobile not just polished UIs.<br><br>I’ve built projects ranging from a habit-tracking app that gamifies consistency with XP and charts, to a crypto trading interface designed for clarity, speed, and real user flow. I care deeply about how things behave, not just how they look—structure, state management, data flow, and user experience matter to me.<br><br>
 
 
 ## 🌐 Socials:
