@@ -36,7 +36,7 @@ mustapha@github:~$ _
 [![X](https://img.shields.io/badge/X-%230a0a0a.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/mustaphAdegbite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0a0a.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustaphaadegbite)
 [![Instagram](https://img.shields.io/badge/Instagram-%230a0a0a.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mustapha_the_website_developer)
-[![TikTok](https://img.shields.io/badge/TikTok-%230a0a0a.svg?style=flat-square&logo=tiktok&logoColor=white)](([https://www.tiktok.com/@mustapha_adegbite](https://www.tiktok.com/@mustapha_adegbite)))
+[![TikTok](https://img.shields.io/badge/TikTok-%230a0a0a.svg?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mustapha_adegbite)
 
 ---
 
