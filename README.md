@@ -6,9 +6,10 @@ Mustapha — Nigerian frontend developer & tech creator
 
 $ cat about.txt
 I build and turn ideas into production-grade applications across web
-and mobile — not just polished UIs. I've shipped a habit-tracking app
-that gamifies consistency with XP and charts, and a crypto trading
-interface designed for clarity, speed, and real user flow.
+and mobile — not just polished UIs. I've shipped Saim, an embeddable
+AI-powered sales agent, Morgu, a React component library built for
+clean, reusable UI and a crypto trading interface designed for
+clarity, speed, and real user flow.
 
 I care about how things behave, not just how they look — structure,
 state management, data flow, and UX are what matter to me.
