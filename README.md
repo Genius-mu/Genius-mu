@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-Mustapha Adegbite → Frontend Developer & Full-Stack Builder 🚀
+Mustapha Adegbite → Software Engineer
 ```
 
 > I transform ideas into **production-grade applications** that users actually want to use.
@@ -80,12 +80,7 @@ interfaces to deployment pipelines that don't fail at 2am.
 - **Stack:** Next.js · Supabase · Paystack · TypeScript
 - **Features:** Customizable personas, live training, analytics, Reveal animations
 
-#### [`ÌPÌLẸ̀`](https://ipilesimulation.vercel.app) — Luxury Real Estate
-- **What:** Cinematic marketing site for high-end Lagos properties
-- **Stack:** Next.js · Three.js · Framer Motion · Tailwind v4
-- **Features:** Scroll-driven 3D sections, flying image component, property detail pages
-
-#### [`AUREA`](https://aurea-staging.vercel.app) — Luxury Real Estate Portal
+#### [`AUREA`](https://aurea-ruddy.vercel.app) — Luxury Real Estate Portal
 - **What:** Premium property showcase with day/night toggle
 - **Stack:** Next.js · React 19 · R3F · GSAP · Lenis smooth scroll
 - **Features:** Cinematic animations, WebGL (desktop-only for performance)
@@ -142,10 +137,10 @@ interfaces to deployment pipelines that don't fail at 2am.
 ```
 📊 BY THE NUMBERS
 ├─ Projects Shipped      → 15+
-├─ GitHub Stars          → 300+
+├─ GitHub Stars          → 100+
 ├─ Production Deploys    → 40+
 ├─ Open Source Tools     → 5+
-└─ Hackathons Won        → 🥇 1st Place (Build Zero UNILAG)
+└─ Hackathons Won        → 🥇 1st Place (PESSA UNILAG)
 
 🎯 HIGHLIGHTS
 ├─ Optimized GraphQL: ~129 → ~3 API calls (CodeFlow)
