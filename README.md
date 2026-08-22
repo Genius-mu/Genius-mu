@@ -25,7 +25,7 @@ Inkly (real-time collaborative whiteboard), and Hernest AI (maternal
 health companion in 5 languages). Also building PHI, a full-stack 
 payment hub for my university's physics department.
 
-I care about the whole picture—from database design to pixel-perfect 
+I care about the whole picture, from database design to pixel-perfect 
 interfaces to deployment pipelines that don't fail at 2am.
 ```
 
@@ -67,7 +67,6 @@ interfaces to deployment pipelines that don't fail at 2am.
 #### [`Unshelved`](https://unshelved-nu.vercel.app) — Research Rubric Scorer
 - **What:** Evaluates Nigerian final-year projects against physics research standards
 - **Stack:** Next.js · TypeScript · Tailwind v4 · Gemini API · Supabase
-- **Recognition:** **🥇 1st Place** at Build Zero UNILAG Hackathon
 - **Features:** Hallucination-verified scoring with quote extraction
 
 #### [`CodeFlow`](https://codeflow-analytics.vercel.app) — GitHub Analytics Dashboard
