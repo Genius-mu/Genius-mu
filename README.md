@@ -1,4 +1,4 @@
-## `$ whoami`
+## `>_ whoami`
 
 ```bash
 $ whoami
@@ -15,18 +15,21 @@ Mustapha Adegbite → Software Engineer
 ```bash
 $ cat about.txt
 
-I build across web and mobile — not just polished UIs. Structure, 
-state management, and data flow are what matter to me. Every project 
-ships with intention: clean architecture, thoughtful UX, and code 
-that another developer can actually understand.
+$ cat about.txt
 
-Recent work includes NaviLag (campus platform for 25k+ students), 
-Inkly (real-time collaborative whiteboard), and Hernest AI (maternal 
-health companion in 5 languages). Also building PHI, a full-stack 
-payment hub for my university's physics department.
+I engineer end-to-end distributed systems and high-concurrency web engines. 
+Polished interfaces mean nothing without bulletproof schema design, low-latency APIs, 
+and resilient state management underneath. Every system I deploy is built for 
+production performance: scalable architecture, fail-safe infrastructure, and clean, 
+maintainable codebases engineered to endure.
 
-I care about the whole picture, from database design to pixel-perfect 
-interfaces to deployment pipelines that don't fail at 2am.
+Recent work includes NaviLag (high-scale campus ecosystem serving 25k+ active users), 
+Inkly (low-latency real-time multiplayer engine), and Hernest AI (distributed 
+maternal health service running multi-model pipelines). Currently architecting PHI, 
+a full-stack financial transaction and ledger system for my university's physics department.
+
+I own the complete lifecycle — from PostgreSQL database normalization and API throughput 
+to edge routing and deployment pipelines that never fail under stress.
 ```
 
 ---
@@ -116,7 +119,7 @@ interfaces to deployment pipelines that don't fail at 2am.
 
 ---
 
-## `$ fetch socials.json`
+## `>$ fetch socials.json`
 
 <div align="center">
 
