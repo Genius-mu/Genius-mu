@@ -186,7 +186,6 @@ ownership     → Full-stack thinking; not just frontend duty
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ```
-// Last updated: August 2026
 // Always learning, always shipping.
 ```
 
