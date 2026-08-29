@@ -50,7 +50,7 @@ to edge routing and deployment pipelines that never fail under stress.
 - **Features:** Private by default, invite-by-email, real-time multi-user sync, persistent state
 - **Status:** Production-ready; expanding shape tools & export formats
 
-#### [`Hernest AI`](https://hernestai.vercel.app) — Maternal Health Companion
+#### [`Hernest AI`](https://earnest-roan.vercel.app) — Maternal Health Companion
 - **What:** AI-powered health guidance for pregnant women in underserved regions
 - **Stack:** Next.js 16 · TypeScript · Anthropic SDK · Supabase · Google Maps
 - **Features:** Streaming AI chat, facility finder, community feed, appointment booking, i18n (5 languages)
@@ -67,12 +67,12 @@ to edge routing and deployment pipelines that never fail under stress.
 - **Collab:** Backend by my sister ([Sumayah](https://github.com/summydev)), Google OAuth flow
 - **Status:** MVP live; expanding sources
 
-#### [`Unshelved`](https://unshelved-nu.vercel.app) — Research Rubric Scorer
+#### [`Unshelved`](https://unshelved.vercel.app) — Research Rubric Scorer
 - **What:** Evaluates Nigerian final-year projects against physics research standards
 - **Stack:** Next.js · TypeScript · Tailwind v4 · Gemini API · Supabase
 - **Features:** Hallucination-verified scoring with quote extraction
 
-#### [`CodeFlow`](https://codeflow-analytics.vercel.app) — GitHub Analytics Dashboard
+#### [`CodeFlow`](https://codeflow-amg.vercel.app) — GitHub Analytics Dashboard
 - **What:** Visualize your GitHub activity, contributions, and insights
 - **Stack:** Next.js · TypeScript · GraphQL (optimized API calls from ~129 to ~3)
 - **Features:** Interactive charts, contribution trends, performance metrics
@@ -159,7 +159,6 @@ Currently deep into:
 - **Systems Design & SQL** — 4-week structured roadmap using real projects
 - **C# & ASP.NET Core** — Starting fintech transaction APIs
 - **Advanced TypeScript** — Generics, type inference, utility types
-- **Exam Prep** — Physics, Mechanics, Statistics (UNILAG)
 
 ---
 
