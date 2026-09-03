@@ -50,12 +50,6 @@ to edge routing and deployment pipelines that never fail under stress.
 - **Features:** Private by default, invite-by-email, real-time multi-user sync, persistent state
 - **Status:** Production-ready; expanding shape tools & export formats
 
-#### [`Hernest AI`](https://earnest-roan.vercel.app) — Maternal Health Companion
-- **What:** AI-powered health guidance for pregnant women in underserved regions
-- **Stack:** Next.js 16 · TypeScript · Anthropic SDK · Supabase · Google Maps
-- **Features:** Streaming AI chat, facility finder, community feed, appointment booking, i18n (5 languages)
-- **Impact:** Deployed across Nigerian clinics; 500+ active users
-
 #### [`PHI`](https://github.com/Genius-mu/phi) — Physics Payment Hub Interface
 - **What:** Department-wide system for assignment submissions, payment tracking, ledgers
 - **Stack:** Next.js · TypeScript · Supabase · Tailwind v4
