@@ -133,7 +133,7 @@ to edge routing and deployment pipelines that never fail under stress.
 ```
 📊 BY THE NUMBERS
 ├─ Projects Shipped      → 15+
-├─ GitHub Stars          → 100+
+├─ GitHub Stars          →50+
 ├─ Production Deploys    → 40+
 ├─ Open Source Tools     → 5+
 └─ Hackathons Won        → 🥇 1st Place (PESSA UNILAG)
@@ -141,8 +141,7 @@ to edge routing and deployment pipelines that never fail under stress.
 🎯 HIGHLIGHTS
 ├─ Optimized GraphQL: ~129 → ~3 API calls (CodeFlow)
 ├─ Campus Platform: 25k+ active users (NaviLag)
-├─ Multiplayer Sync: <100ms latency (Inkly)
-└─ Healthcare Impact: 500+ users across clinics (Hernest AI)
+└─ Multiplayer Sync: <100ms latency (Inkly)
 ```
 
 ---
@@ -151,7 +150,6 @@ to edge routing and deployment pipelines that never fail under stress.
 
 Currently deep into:
 - **Systems Design & SQL** — 4-week structured roadmap using real projects
-- **C# & ASP.NET Core** — Starting fintech transaction APIs
 - **Advanced TypeScript** — Generics, type inference, utility types
 
 ---
